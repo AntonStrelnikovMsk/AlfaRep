@@ -1,16 +1,8 @@
 certifi==2018.4.16
 chardet==3.0.4
 DateTime==4.2
-gunicorn==19.8.1
 idna==2.6
-pipenv==2018.5.18
-PySocks==1.6.8
-pyTelegramBotAPI==3.6.3
 pytz==2018.4
-requests==2.7.0
-six==1.11.0
-telebot==0.0.3
+requests==2.18.4
 urllib3==1.22
-virtualenv==16.0.0
-virtualenv-clone==0.3.0
 zope.interface==4.5.0
